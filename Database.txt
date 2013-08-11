@@ -1,0 +1,7 @@
+8888|book8|author8|2008
+3333|book3|author3|2003
+4444|book4|author4|2004
+5555|book5|author5|2005
+1111|book1|author1|2001
+123|pudik chudick|Lamotik|2013
+9999|book9|author9|2009
